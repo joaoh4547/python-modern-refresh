@@ -1,0 +1,6 @@
+[project]
+name = "python-modern-refresh"
+version = "0.1.0"
+description = "Revisão prática de Python moderno antes dos projetos de Machine Learning"
+requires-python = ">=3.14,<3.15"
+dependencies = []
