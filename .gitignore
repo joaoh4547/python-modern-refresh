@@ -6,3 +6,4 @@ __pycache__/
 .ruff_cache/
 /src/python_refresh/example.txt
 /src/python_refresh/example_manual.txt
+/src/python_refresh/data
